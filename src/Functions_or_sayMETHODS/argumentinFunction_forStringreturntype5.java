@@ -1,8 +1,13 @@
 package Functions_or_sayMETHODS;
 
+import java.util.Scanner;
+
 public class argumentinFunction_forStringreturntype5 {
     public static void main(String[] args) {
-        String personalised = myGreet("Akshat Saini");
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter your name: ");
+        String name = in.nextLine();
+        String personalised = myGreet(name);
         System.out.println(personalised);
 
     }
