@@ -7,7 +7,7 @@ public class SumwithFunctions1 {
         /*
         basic syntax for function/method:
 
-        Access modifier return_type name() {
+        Access modifier return_type name(arguments) {
             //body
             return statement;
         }
