@@ -2,7 +2,7 @@ package ConditionalsAndLoops;
 
 import java.util.Scanner;
 
-public class Calculator {
+public class Calculator9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         // take input from user till user does not press X or x
