@@ -1,4 +1,4 @@
-package akshat;
+package Basic;
 
 import java.util.Scanner;
 

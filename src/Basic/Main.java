@@ -1,6 +1,4 @@
-package akshat;
-
-import java.util.Scanner;
+package Basic;
 
 public class Main {
     public static void main(String[] args) {

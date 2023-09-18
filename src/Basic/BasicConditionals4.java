@@ -1,4 +1,4 @@
-package akshat;
+package Basic;
 
 public class BasicConditionals4 {
     public static void main(String[] args) {
