@@ -2,7 +2,7 @@ package ConditionalsAndLoops;
 
 import java.util.Scanner;
 
-public class CountingOccurrences {
+public class CountingOccurrences8 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the number: ");

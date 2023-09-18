@@ -2,7 +2,7 @@ package ConditionalsAndLoops;
 
 import java.util.Scanner;
 
-public class ReverseofaNumber {
+public class ReverseofaNumber9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the number: ");
