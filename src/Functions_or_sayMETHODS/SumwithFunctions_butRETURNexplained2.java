@@ -2,7 +2,7 @@ package Functions_or_sayMETHODS;
 
 import java.util.Scanner;
 
-public class SumwithFunctions_butRETURNexplained {
+public class SumwithFunctions_butRETURNexplained2 {
     public static void main(String[] args) {
         int ans = sum();
         System.out.println(ans);
