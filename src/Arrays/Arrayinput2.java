@@ -12,7 +12,7 @@ public class Arrayinput2 {
         for (int i = 0; i < myarray.length; i++){
             myarray[i] = in.nextInt();
         }
-        //here it is:
+        //here it is: basically converts array to string using toString() and prints that string
         System.out.println(Arrays.toString(myarray));
     }
 }
