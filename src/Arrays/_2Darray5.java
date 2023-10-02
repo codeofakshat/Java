@@ -30,7 +30,7 @@ public class _2Darray5 {
             }
         }
 
-        // output
+        // output method 1
 //        for (int row = 0; row < arr.length; row++) {
 //            // for each col in every row
 //            for (int col = 0; col < arr[row].length; col++) {
@@ -39,11 +39,11 @@ public class _2Darray5 {
 //            System.out.println();
 //        }
 
-        // output
+        // output method 2
 //        for (int row = 0; row < arr.length; row++) {
 //            System.out.println(Arrays.toString(arr[row]));
 //        }
-
+        //method 3
         for(int[] a : arr) {
             System.out.println(Arrays.toString(a));
         }
