@@ -7,6 +7,7 @@ public class swapquestion1 {
         int[] arr = {1,2,3,4,23};
         swap(arr, 0, 4);
         //swaps index 0 and index 4
+        //change index with want to swap others of your choice
         System.out.println(Arrays.toString(arr));
     }
     static void swap(int[] arr, int index1, int index2){
